@@ -8,7 +8,8 @@ function App() {
    <Text style= {{fontSize: 20, textAlign: 'center', color: 'white'}}>
     <Text style= {{fontFamily:'Brush Script MT'}}>Eu sou o maior cantador de parabéns {'\n'}</Text>
     <Text style = {{fontWeight:'bold'}}>Eu vou bater o recorde de aniversários celebrados{'\n'}</Text>
-    <Text style = {{fontStyle: 'italic'}}>2050 aniversários celebrados</Text>
+    <Text style = {{fontStyle: 'italic'}}>2050 aniversários celebrados{'\n'}</Text>
+    <Text>Mateus Hilberath Costa</Text>
     </Text>
     </View>
     <View style= {{ height: '40%', width: '40%', backgroundColor: 'white'}}>
